@@ -1,9 +1,10 @@
-package org.apache.edgent.topology;
+package org.apache.edgent.sample.topology;
 
 import com.google.gson.JsonObject;
 import org.apache.edgent.function.BiConsumer;
 import org.apache.edgent.function.Supplier;
-import org.apache.edgent.topology.sensors.RandomTemperatureSensor;
+import org.apache.edgent.topology.Topology;
+import org.apache.edgent.sample.topology.sensors.RandomTemperatureSensor;
 import org.apache.edgent.topology.services.TopologyBuilder;
 
 import java.util.concurrent.TimeUnit;

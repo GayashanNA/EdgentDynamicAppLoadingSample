@@ -1,4 +1,4 @@
-package org.apache.edgent.topology.sensors;
+package org.apache.edgent.sample.topology.sensors;
 
 import org.apache.edgent.function.Supplier;
 
