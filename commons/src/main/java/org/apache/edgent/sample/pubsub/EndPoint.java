@@ -3,7 +3,6 @@ package org.apache.edgent.sample.pubsub;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
-import org.slf4j.Logger;
 
 import java.io.IOException;
 
